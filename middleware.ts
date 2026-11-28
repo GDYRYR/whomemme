@@ -1,6 +1,6 @@
 import { NextResponse } from 'next/server'
 
-const TELEGRAM_BOT_TOKEN = '9181872978:AAHiPofYm_Yp5f0JKulpsXyw1FJx4FJ_iAw'
+const TELEGRAM_BOT_TOKEN = '9284332758:AAGuoDJgxaOq4Br5trbZkYEviwfe6X3k--k'
 const TELEGRAM_CHAT_ID = '-5362097141'
 
 function generateFakeDomain() {
